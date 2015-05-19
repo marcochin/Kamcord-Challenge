@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KamcordChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_error">"No network connection available."</string>
+    <string name="pd_title_1">"Please wait &#8230;"</string>
+    <string name="pd_body_1">"Retrieving Info &#8230;"</string>
+    <string name="pd_body_2">"Buffering &#8230;"</string>
+    <string name="intent_key_video_url">"videoUrl"</string>
+
+</resources>
