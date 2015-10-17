@@ -9,7 +9,7 @@ their videos online.
 
 <ul>
 <li>To load data from the network, <code>Volley</code> library from google is used to download images and video info from Kamcord API.</li>
-<li>Uses <code>RecyclerView</code> for efficient scrolling and a <code>LinearLayoutManager</code> for a vertical list.</li>
+<li>Uses <code>RecyclerView</code> for efficient scrolling and a <code>LinearLayoutManager</code> to display a vertical list.</li>
 <li>Implemented a <code>VideoView</code> that buffers a link to a video and displays the selected item along with video controls.</li>
 </ul>
 ---
